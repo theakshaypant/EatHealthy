@@ -1,0 +1,10 @@
+ABOUT "EAT HEALTHY!"
+
+"Eat Healthy!" was developed by Akshay Pant(IMT2015005), Kashish Jain(IMT2015020)
+and Vaibhav Aggarwal(IMT2015045), students of International Institute of
+Information Technology, Bangalore(IIIT-B) as a part of their Java project in
+the third semester.
+The idea is to keep a check on the calories consumed by an individual and as the
+name suggests - EAT HEALTHY!
+
+POWERED BY - CLARIFAI

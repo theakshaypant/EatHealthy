@@ -1,0 +1,10 @@
+HELP!
+
+Eat Healthy is a Java based applet which gives you nutritional values of various
+food items when provided with its image. It can accept the URL of image in the
+provided text field or can process on an image in local storage. Either way, it
+uses advanced image recognition and artificial intelligence techniques to
+determine the tags associated with the dish. The tags thus retrieved are then
+compared with the tags stored in a concise database created by the developers.
+Alternatively, the tags can be compared to some website. Using the database,
+various nutritional facts about the food item are displayed on the screen.
